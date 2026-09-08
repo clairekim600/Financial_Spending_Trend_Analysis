@@ -7,8 +7,8 @@ A financial data pipeline analyzing a 5-year transactional dataset to extract an
 ![Dashboard Preview](dashboard_preview.png)
 
 ## Tools
-* ** Microsoft SQL Server: Used for data transformations and hosting the database view.
-* ** Power BI: Used to create a visual representation of findings.
+* **Microsoft SQL Server:** Used for data transformations and hosting the database view.
+* **Power BI:** Used to create a visual representation of findings.
 
 ## Key Findings
 The analysis revealed two main spending trends over the 5-year period:
