@@ -4,7 +4,7 @@
 A financial data pipeline analyzing a 5-year transactional dataset to extract annual spend metrics and compute the average year-over-year percent changes across various business categories. 
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_spending_preview.png)
 
 ## Tools
 * **Microsoft SQL Server:** Used for data transformations and hosting the database view.
