@@ -1,7 +1,7 @@
 # 5-Year Financial Spending Trend Analysis
 
 ## Project Overview
-A financial data pipeline analyzing a 5-year transactional dataset to extract annual spend metrics and compute the average year-over-year percent changes across various business categories. 
+A financial data pipeline project analyzing a 5-year transactional dataset to extract annual spend metrics and compute the average year-over-year percent changes across various business categories. 
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard_spending_preview.png)
@@ -11,7 +11,7 @@ A financial data pipeline analyzing a 5-year transactional dataset to extract an
 * **Power BI:** Used to create a visual representation of findings.
 
 ## Key Findings
-The analysis revealed two main spending trends over the 5-year period:
+The dataanalysis revealed two main spending trends over the 5-year period:
 * **Primary Growth Sector:** The **Travel** category experienced the highest historical change in spending, spiking by **+2.49%**.
 * **Most Significant Cost Reduction:** The **Rent** category marked the largest historical spending decline, dropping **-2.01%**.
 
